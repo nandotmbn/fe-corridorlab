@@ -1,0 +1,62 @@
+[
+	{
+		"id": 18,
+    "based": "all",
+		"name": "Fundamental of competitive strategy and product design",
+		"price": 50000
+	},
+	{
+		"id": 19,
+    "based": "all",
+		"name": "Research paper and jurnal writings",
+		"price": 50000
+	},
+	{
+		"id": 20,
+    "based": "ai",
+		"name": "Fundamental of bussiness analysis for AI based product",
+		"price": 150000
+	},
+	{
+		"id": 21,
+    "based": "ai",
+		"name": "Creating startup pitchdeck for AI based products",
+		"price": 100000
+	},
+	{
+		"id": 22,
+    "based": "embedded",
+		"name": "Fundamental of bussiness analysis for Embedded based product",
+		"price": 150000
+	},
+	{
+		"id": 23,
+    "based": "embedded",
+		"name": "Creating startup pitchdeck for Embedded based products",
+		"price": 100000
+	},
+	{
+		"id": 24,
+    "based": "web",
+		"name": "Fundamental of bussiness analysis for Web based product",
+		"price": 150000
+	},
+	{
+		"id": 25,
+    "based": "web",
+		"name": "Creating startup pitchdeck for Web based products",
+		"price": 100000
+	},
+	{
+		"id": 24,
+    "based": "mobile",
+		"name": "Fundamental of bussiness analysis for Mobile based product",
+		"price": 150000
+	},
+	{
+		"id": 25,
+    "based": "mobile",
+		"name": "Creating startup pitchdeck for Mobile based products",
+		"price": 100000
+	}
+]

@@ -1,0 +1,121 @@
+[
+	{
+		"id": 1,
+    "based": "ai",
+		"name": "Complete TensorFlow course for Deep Learning and Artificial Intellegence",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 180000
+	},
+	{
+		"id": 2,
+    "based": "ai",
+		"name": "Full path becoming PyTorch experts",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 180000
+	},
+	{
+		"id": 3,
+    "based": "ai",
+		"name": "Becoming Computer Vision Experts using YOLOv7",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 120000
+	},
+	{
+		"id": 4,
+    "based": "ai",
+		"name": "Medical Imaging using SSD MobileNet",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 80000
+	},
+	{
+		"id": 5,
+    "based": "ai",
+		"name": "Simple Regression Segmentation using SVM Method",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 50000
+	},
+	{
+		"id": 6,
+    "based": "embedded",
+		"name": "Explore Arduino and AVR deeply",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 160000
+	},
+	{
+		"id": 7,
+    "based": "embedded",
+		"name": "Becoming embedded system engineer expert using Raspberry Pi",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 180000
+	},
+	{
+		"id": 8,
+    "based": "embedded",
+		"name": "Create an advance IoT Product using ESP32",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 40000
+	},
+	{
+		"id": 9,
+    "based": "embedded",
+		"name": "Explore STM32 features",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 200000
+	},
+	{
+		"id": 10,
+    "based": "mobile",
+		"name": "Flutter - Complete Guide",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 160000
+	},
+	{
+		"id": 11,
+    "based": "mobile",
+		"name": "React Native - Complete Guide",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 180000
+	},
+	{
+		"id": 12,
+    "based": "web",
+		"name": "Becoming Nodejs Developer Complete Guide",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 160000
+	},
+	{
+		"id": 13,
+    "based": "web",
+		"name": "Becoming Golang Developer Complete Guide",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 180000
+	},
+	{
+		"id": 14,
+    "based": "web",
+		"name": "Becoming Nextjs Developer Complete Guide",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 160000
+	},
+	{
+		"id": 15,
+    "based": "web",
+		"name": "Becoming Reactjs Developer Complete Guide",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 180000
+	},
+	{
+		"id": 16,
+    "based": "web",
+		"name": "Becoming Vuejs Developer Complete Guide",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 160000
+	},
+	{
+		"id": 17,
+    "based": "web",
+		"name": "Becoming Angular Developer Complete Guide",
+		"tags": ["solution challenge", "kmipn", "pimnas", "gemastik"],
+		"price": 180000
+	}
+]
